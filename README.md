@@ -180,6 +180,3 @@ Positive velocity shifts spectral features toward longer wavelengths. Linear int
 
 The classifier hyperparameters are fixed to the configurations inherited from the preceding classification study. They are not re-optimized for the binary O/B task or for the Doppler perturbation experiments. `LightGBM subsample=0.56` is retained from that configuration, while `subsample_freq=0` leaves row subsampling inactive.
 
-## License
-
-The code is released under the BSD 3-Clause License. The license applies only to the software in this repository.
