@@ -1,24 +1,18 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the associated study and the archived software release."
-title: "OB-Doppler-Stress"
+title: "Stress-testing Tree-based O/B Stellar Spectral Classification under Controlled Doppler Shifts"
 type: software
 version: 1.0.0
 date-released: 2026-10-13
-license: BSD-3-Clause
+license: MIT
 authors:
   - family-names: Gonzales
     given-names: J. E.
   - family-names: Simón-Díaz
     given-names: S.
-  - family-names: Cuellar
-    given-names: S.
   - family-names: Conejero
     given-names: J. A.
-  - family-names: Holgado
-    given-names: G.
-  - family-names: de Burgos
-    given-names: A.
-keywords:
+  keywords:
   - stellar spectroscopy
   - O-type stars
   - B-type stars
