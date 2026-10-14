@@ -14,7 +14,7 @@ The repository contains only the software needed to reproduce the computational 
 - `requirements.txt` — Python dependencies used for the experiments.
 - `.gitignore` — prevents private spectra and generated results from being committed.
 - `CITATION.cff` — software citation metadata.
-- `LICENSE` — BSD 3-Clause license for the code.
+- `LICENSE` — MIT license for the code.
 
 ## Data access
 
