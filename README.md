@@ -32,7 +32,7 @@ Suggested acknowledgement:
 
 > This research has made use of the IACOB spectroscopic database, operated at the Instituto de Astrofísica de Canarias (Tenerife, Spain).
 
-The BSD 3-Clause license in this repository applies to the software only. It does not grant rights to redistribute IACOB spectra or other third-party observational material.
+The MIT license in this repository applies to the software only. It does not grant rights to redistribute IACOB spectra or other third-party observational material.
 
 ## Numerical input used in the study
 
