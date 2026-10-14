@@ -2,7 +2,7 @@
 
 Code accompanying the study **“Stress-testing Tree-based O/B Stellar Spectral Classification under Controlled Doppler Shifts.”**
 
-The repository contains only the software needed to reproduce the computational experiments. It does not contain observational spectra, labels, derived prediction tables, or result files.
+The repository contains only the software needed to reproduce the computational experiments. It does not contain observational spectra or labels.
 
 ## Files in this repository
 
